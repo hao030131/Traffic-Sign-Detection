@@ -28,3 +28,8 @@ Python
 OpenCV for image processing
 NumPy for matrix operations
 Matplotlib for result visualization
+
+## Future Improvements
+Implementing deep learning methods for better detection accuracy.
+Improving robustness against motion blur and extreme weather conditions.
+Expanding the detection system to recognize a wider variety of traffic signs.
